@@ -5,11 +5,6 @@
 - 🌱 I’m currently learning Typescript
 
 - 📫 How to reach me: carlosdmoron1225@gmail.com
-- 😄 Pronouns: Carlos 
+- 😄 Pronouns: Carlos
 
-
-
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anuraghazra
-
-
-     
+[! [carlosdmoron 's  GitHub stats ](https://github-readme-stats.vercel.app/api?username=carlosdmoron)]

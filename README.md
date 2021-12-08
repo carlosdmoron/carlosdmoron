@@ -7,7 +7,7 @@
 - 📫 How to reach me: carlosdmoron1225@gmail.com
 - 😄 Pronouns: Carlos 
 
-![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=carlosdmoron&theme=radical)
+![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=carlosdmoron&theme=dark )
 
 
      
